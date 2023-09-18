@@ -1,5 +1,5 @@
 body{
-    background: rgb(78, 77, 80);
+    background: rgb(53, 53, 65);
 }
 h1{
     font-size: 60px;
@@ -8,7 +8,7 @@ h1{
 }
 p{
     font-size: 30px;
-    color: rgb(54, 42, 42);
+    color: rgb(24, 24, 41);
     text-align: center;
 }
 img{
@@ -19,7 +19,7 @@ img{
 }
 
 li{
-    border: 5px solid rgb(41, 41, 43);
+    border: 5px solid rgb(12, 12, 26);
 
     text-align: center;
     color: rgb(0, 0, 0);
@@ -33,4 +33,19 @@ h2 {
     color: rgb(14, 14, 14);
 
 
+}
+
+.cabecalho{
+    background-color: aliceblue;
+}
+.lista_cabecalho{
+    display: flex;
+    margin-left: 200px;
+}
+.item_lista_cabecalho{
+    color: blue;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 7px;
 }
