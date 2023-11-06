@@ -1,0 +1,5 @@
+.listamusicas {
+    border: 5px solid rgb(12, 12, 26);
+    list-style: none;
+    margin-left: 200px;
+}

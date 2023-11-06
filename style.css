@@ -1,25 +1,25 @@
 body{
     background: rgb(53, 53, 65);
 }
-h1{
+.titulobanda{
     font-size: 60px;
     color: rgb(0, 0, 0);
     text-align: center;
 }
-p{
+.subtitulobanda{
     font-size: 30px;
     color: rgb(24, 24, 41);
     text-align: center;
 }
-img{
-    
+.fotos{
     width: 300px;
     height: 300px;
     margin: 30px;
     margin-left: 130px;
+    text-align: center;
 }
 
-li{
+.albuns{
     border: 5px solid rgb(12, 12, 26);
 
     text-align: center;
